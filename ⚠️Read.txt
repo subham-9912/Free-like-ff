@@ -1,0 +1,34 @@
+This was made by Wotax!
+
+How to use?
+
+Make GitHub repository like this:- https://github.com/Wotax-dev/database-test
+
+
+Then take your token from here :- https://github.com/settings/personal-access-tokens
+
+
+Then choose tokens (classic) there and and tick repo box and generate token and use it in tokenupdater.py on the github_token="token"
+
+After this 
+
+Go to the GitHub link and repo link means like this is your location of files then from this :- https://github.com/Wotax-dev/database-test
+
+
+Wotax-dev/database-test this is your repo link. 
+
+After this👇👇
+
+Then put access tokens in tokens.json in this order:-
+[
+  "abcdefghijklmnopqrstuvwxyz",
+  "12345678910111213141516171"
+]
+
+
+The token updater folder files host it in a hosting site you can use orihost, wispbyte, render e.t.c it will update token automatically every 5 hr.
+
+
+Then move to last step host the code in vercel without tokenupdater folder.
+
+Enjoy don't forget to give credit to Wotax!!
